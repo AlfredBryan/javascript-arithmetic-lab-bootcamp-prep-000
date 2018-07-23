@@ -30,7 +30,7 @@ function divide(a, b) {
 divide()
 
 function inc(a) {
-  var math = a++;
+  var math = ++a;
   return math
 }
 inc()
