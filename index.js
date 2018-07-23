@@ -35,7 +35,7 @@ function inc(a) {
 }
 inc()
 
-function dec() {
+function dec(a) {
   var math = --a;
   return math 
 }
