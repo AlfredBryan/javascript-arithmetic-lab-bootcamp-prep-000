@@ -44,3 +44,4 @@ dec()
 function makeInt(a, 10) {
   
 }
+makeInt()
