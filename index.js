@@ -40,3 +40,7 @@ function dec(a) {
   return math 
 }
 dec()
+
+function makeInt(a, 10) {
+  
+}
