@@ -29,3 +29,6 @@ function divide(a, b) {
 }
 divide()
 
+function inc(n) {
+  
+}
