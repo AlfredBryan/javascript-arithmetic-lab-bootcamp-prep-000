@@ -41,7 +41,7 @@ function dec(a) {
 }
 dec()
 
-function makeInt(a, 10) {
+function makeInt(a) {
   
 }
 makeInt()
