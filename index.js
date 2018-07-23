@@ -23,3 +23,9 @@ function multiply(a, b) {
 }
 multiply()
 
+function divide(a, b) {
+  var math = a / b;
+  return math
+}
+divide()
+
