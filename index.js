@@ -16,3 +16,7 @@ function subtract(a, b) {
   return math
 }
 subtract()
+
+function multiply(a, b) {
+  var math =
+}
