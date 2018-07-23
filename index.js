@@ -12,7 +12,7 @@ function add(a, b) {
 add()
 
 function subtract(a, b) {
-  var math = b - a;
+  var math = a - b;
   return math
 }
 subtract()
