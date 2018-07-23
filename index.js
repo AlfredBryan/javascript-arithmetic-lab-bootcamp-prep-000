@@ -18,5 +18,7 @@ function subtract(a, b) {
 subtract()
 
 function multiply(a, b) {
-  var math =
+  var math = a * b;
+  return math
 }
+multiply()
