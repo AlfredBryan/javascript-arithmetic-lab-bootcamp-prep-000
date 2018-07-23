@@ -1,5 +1,5 @@
-function Solve(a, b) {
-  var math = 4 + 5;
+function Solve(a=4, b=5) {
+  var math = a + b;
   return math
 }
 Solve()
