@@ -34,3 +34,9 @@ function inc(a) {
   return math
 }
 inc()
+
+function dec() {
+  var math = --a;
+  return math 
+}
+dec()
