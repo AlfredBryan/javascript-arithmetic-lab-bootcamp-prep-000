@@ -29,7 +29,7 @@ function divide(a, b) {
 }
 divide()
 
-function inc(a) {
+function inc(n) {
   var math = a + 1;
   return math
 }
